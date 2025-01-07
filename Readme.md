@@ -1,4 +1,4 @@
-# Instruction decoder generator
+ # Instruction decoder generator
 
 ## About this project
 
